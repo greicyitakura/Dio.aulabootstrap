@@ -1,0 +1,91 @@
+body{
+    font-family: 20px Helvetica, sans-serif;
+    text-align: left;
+}
+.navbar {
+    background-color: #d0cac9c2 ;
+    color: blanchedalmond;
+    font-size: 18px;
+    text-align: center;
+}
+
+.quem-sou{
+    background-color: #f08158;
+    color:White;
+    text-align: center;
+    
+
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.contato {
+    background-color:  #8fd6ce ;
+    
+
+}
+.bg-footer{
+    background-color: #d0cac9c2 ;
+}
+.botao{
+ 
+    background-color:#f08158;
+    border: none;
+    color: white;
+    padding: 18px 30px;
+    margin-right: 20px;
+    margin-left: 30px;
+    font-size: 15px;
+    font-family: 'Verdana';
+    border-radius: 0.5em;
+    
+
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.botao:hover{
+    background:#8fd6ce;
+    border-radius: 6px; 
+    padding: 10px; 
+    cursor: pointer; 
+    color:white; 
+    border: none; 
+    font-size: 14px;
+    border-radius: 0.5em;
+}
+}
+.botao i{
+  
+    margin-right: 8px;
+}
+.botao1{
+ 
+    background-color:#f08158;
+    border: none;
+    color: white;
+    padding: 18px 10px;
+    margin-right: 20px;
+    margin-left: 30px;
+    font-size: 15px;
+    font-family: 'Verdana';
+    border-radius: 0.5em;
+    
+
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.botao1:hover {
+    background:rgba(255, 255, 255, 0.575);
+    border-radius: 6px; 
+    padding: 10px; 
+    cursor: pointer; 
+    color:#f08158; 
+    border: none; 
+    font-size: 14px;
+    border-radius: 0.5em;
+}
+
